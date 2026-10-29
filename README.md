@@ -23,10 +23,9 @@ This repo documents real progress, not a fixed schedule: some weeks move faster,
 | 7 | Time-series basics | Mini-Project #3: windowed signal classification/regression | ✅ Done|
 | 8 | Intro neural nets | Small MLP vs best tree model comparison | ✅ Done |
 | 9 | Mini MLOps | Reproducible run: pinned deps + experiment log | ✅ Done |
-| 10 | Embeddings | Semantic search over neuroscience abstracts | 🔄 In Progress |
+| 10 | Embeddings | Semantic search over neuroscience abstracts | ✅ In Progress |
 | 11 | Deployment | Mini-Project #4 (optional): Streamlit/Gradio demo app | ⬜ Planned |
-| 12 | Mastery review | Improve one prior project significantly | ⬜ Planned |
-| 13 | Capstone planning | Capstone proposal + dataset shortlist | ⬜ Planned |
+
 
 > Update statuses to 🔄 In Progress / ✅ Done as you complete each week — keep the header note "Currently working on: Week X" in sync too.
 
@@ -96,23 +95,18 @@ This repo documents real progress, not a fixed schedule: some weeks move faster,
 ### Week 6 — Unsupervised Learning for Neuroscience ✅
 **Deliverable:** Clustering + PCA notebook on a neuro-related dataset with biological interpretation.
 
-### Week 7 — Time-Series Basics (Neuro Signals) 🔄
+### Week 7 — Time-Series Basics (Neuro Signals) ✅
 **Deliverable (Mini-Project #3):** Time-series classification/regression pipeline with windowing and feature extraction.
 
-### Week 8 — Intro Neural Nets ⬜
+### Week 8 — Intro Neural Nets ✅
 **Deliverable:** Small MLP for tabular/windowed features, compared against best tree model.
 
-### Week 9 — Mini MLOps: Reproducibility + Tracking ⬜
+### Week 9 — Mini MLOps: Reproducibility + Tracking ✅
 **Deliverable:** Reproducible run with pinned dependencies and an experiment log.
 
-### Week 10 — Embeddings ⬜
+### Week 10 — Embeddings ✅
 **Deliverable:** Semantic search over 20-50 neuroscience abstracts (notes + citations).
 
 ### Week 11 — Deployment (Optional) ⬜
 **Deliverable (Mini-Project #4):** Streamlit/Gradio app for one model.
 
-### Week 12 — Exam Buffer + Mastery Week ⬜
-**Deliverable:** Mastery review doc; significant improvement of one prior project.
-
-### Week 13 — Capstone Planning ⬜
-**Deliverable:** Capstone proposal, dataset shortlist, and success metrics for a 4-6 week capstone.
